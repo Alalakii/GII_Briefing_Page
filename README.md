@@ -1,5 +1,9 @@
 # GII_Briefing_Page
-A page for the in-depth-economy-report on Global Innovation Index website.
+This is the page designed for Global Innovation Index- Analysis Tools project from Cornell CS5150. 
+
+This page is used for "In-Depth Economy Report" to give a simple breif on each economy having GII data and display their other economic statistic like GDP, input, output and population.
+
+# GII Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
