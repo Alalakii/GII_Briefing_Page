@@ -1,0 +1,28 @@
+button {
+	background-color: #000000;
+    border: none;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    right: 16%;
+    font-size: 12px;
+    margin: 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    z-index: 0;
+}
+
+#cleanBrief {
+	background-color: #efeef7;
+	color: black;
+	border: 0px;
+	margin-right: 5px;
+}
+
+#cleanBrief:hover {
+	background-color: #e1cbcd;
+	color: white;
+}
